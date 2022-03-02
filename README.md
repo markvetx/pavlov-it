@@ -1,2 +1,2 @@
-# pavlov-it
-Personal portfolio website
+# Description
+My personal portfolio webpage
